@@ -17,7 +17,7 @@ class MainApp extends StatelessWidget {
   Widget build(BuildContext context) {
     // Define cómo se ve el widget
     return MaterialApp(
-      title: "Login y tarea", // Título de la aplicación
+      title: "cruz del sur clinica", // Título de la aplicación
       home:
           const LoginScreen(), // La primera pantalla que se muestra es LoginScreen
     );
